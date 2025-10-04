@@ -47,10 +47,10 @@
 
 | Stage | Description |
 |--------|--------------|
-| ** Open Lottery** | Admin opens the lottery for participation |
-| ** Enter Lottery** | Players join by paying the ticket price |
-| ** End Lottery** | Admin ends lottery & requests randomness |
-| ** Chainlink VRF** | Returns provably random number |
-| ** Winner Picked** | Random winner gets all ETH in the pool |
+| **Open Lottery** | Admin opens the lottery for participation |
+| **Enter Lottery** | Players join by paying the ticket price |
+| **End Lottery** | Admin ends lottery & requests randomness |
+| **Chainlink VRF** | Returns provably random number |
+| **Winner Picked** | Random winner gets all ETH in the pool |
 
 ---
